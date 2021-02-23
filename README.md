@@ -21,4 +21,4 @@ The form contains the following fields with these limitations:
 
 - [Bootstrap](https://getbootstrap.com)
 - [ReactJS](https://reactjs.org)
-- [Formik] (https://formik.org)
+- [Formik](https://formik.org)
